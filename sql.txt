@@ -49,6 +49,8 @@ hh
 
 dbg_zjj 哈哈哈
 what‘s your name
+reused
+
 
 
 new Response.ErrorListener() {
@@ -58,3 +60,10 @@ new Response.ErrorListener() {
 
 			}
 		}
+
+protected Map<String, String> getParams() throws AuthFailureError {
+				Map<String, String> map = new HashMap<String, String>();
+				map.put("url", longUrl);
+				return map;
+			}
+
