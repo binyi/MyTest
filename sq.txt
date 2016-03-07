@@ -1,0 +1,66 @@
+huhu
+mingzi
+走走
+走
+cuxu
+
+
+
+bmx
+hello
+hello2
+haha
+sjdisk
+aahah
+
+
+select * from t_user_info where name in ('haha','hehe')
+
+select * from t_user_info where name in (‘hello1’,‘hello2’,‘hello3’,‘hello4’,‘hello5’,‘hello6’)
+
+
+
+
+
+fsdjflsadjf;lasf;a
+sdjfkjas;djf;a
+jsadl;fals
+
+xxx
+
+kjkk
+hhhhhhhhh
+
+jjjjj
+
+
+zjj_changes
+
+
+new branch
+
+commit changes
+
+
+tow branch
+
+hh
+
+
+dbg_zjj 哈哈哈
+what‘s your name
+reused
+
+aaa
+
+
+ggg
+
+i modify the file , for test the order
+
+
+modify the file, for verify the not commit file is merge by server file
+
+branch
+zbb
+xixi
